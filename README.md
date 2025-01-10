@@ -13,6 +13,7 @@ A curated collection of papers and codes on LLM inference, including topics like
 ---
 
 ### 🌀 **Speculative Decoding**
+🔗 [**Awesome-Speculative-Decoding**](https://github.com/hemingkx/SpeculativeDecodingPapers)
 Explore advanced methods for accelerating LLM decoding with speculative techniques. 🚀
 
 ---
