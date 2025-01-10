@@ -5,7 +5,7 @@
 **Overview**: [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
 
 ### Speculative Decoding
-
+[SpeculativeDecoding](https://github.com/hemingkx/SpeculativeDecodingPapers)
 ### Long-context Modeling
 
 - [Large Language Model Based Long Context Modeling Papers and Blogs](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
