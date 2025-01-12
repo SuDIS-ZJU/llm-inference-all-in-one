@@ -42,5 +42,10 @@ Efficient management of KV Caches for LLM acceleration! ⚡
 
 ## 📝 **Blogs**
 
-Explore insightful blogs and write-ups on cutting-edge LLM inference techniques! 🌐  
+Explore insightful blogs and write-ups on cutting-edge LLM inference techniques! 🌐 
+
+🔗 [**Learning notes for ML System**](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial)
+
+🔗 [**A batch of noteworthy MLSys bloggers**](https://github.com/MLSys-Learner-Resources/Awesome-MLSys-Blogger)
+
 Stay tuned for more updates! 🎉
