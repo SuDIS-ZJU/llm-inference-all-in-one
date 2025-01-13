@@ -40,9 +40,15 @@ Efficient management of KV Caches for LLM acceleration! ⚡
 
 ---
 
-## 📝 **Blogs**
+## 📝 **Blogs & Courses**
 
-Explore insightful blogs and write-ups on cutting-edge LLM inference techniques! 🌐 
+Explore insightful blogs and courses on cutting-edge LLM inference techniques! 🌐 
+
+🔗 [**入门必备 - Andrej Karpathy：从零开始构建 GPT 系列**](https://www.bilibili.com/video/BV11yHXeuE9d/?spm_id_from=333.788.videopod.episodes&vd_source=0041b9137caa41ec2dc791fe96607ed6&p=7)
+
+🔗 [**MIT 6.5940 TinyML 和高效的深度学习计算**](https://www.bilibili.com/video/BV1aSq8YrE9P/?spm_id_from=333.337.search-card.all.click&vd_source=0041b9137caa41ec2dc791fe96607ed6)
+
+🔗 [**CMU Large Language Model System Course**](https://llmsystem.github.io/)
 
 🔗 [**Learning notes for ML System**](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial)
 
