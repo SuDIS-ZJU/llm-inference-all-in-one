@@ -7,8 +7,11 @@ Your ultimate guide to resources, papers, and blogs on **Large Language Model (L
 ## 🏆 **Awesome Lists**
 
 ### **Overview**  
-🔗 [**Awesome-LLM-Inference**](https://github.com/DefTruth/Awesome-LLM-Inference)  
+- 🔗 [**Awesome-LLM-Inference**](https://github.com/DefTruth/Awesome-LLM-Inference)  
 A curated collection of papers and codes on LLM inference, including topics like FlashAttention, PagedAttention, and Parallelism.
+
+- 🔗 [**Awesome LLM Systems Papers**](https://github.com/AmberLJC/LLMSys-PaperList)  
+A curated list of Large Language Model systems related academic papers, articles, tutorials, slides and projects.
 
 ---
 
