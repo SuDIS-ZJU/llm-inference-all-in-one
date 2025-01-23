@@ -16,9 +16,11 @@ A curated list of Large Language Model systems related academic papers, articles
 ---
 
 ### 🌀 **Speculative Decoding**
-🔗 [**Awesome-Speculative-Decoding**](https://github.com/hemingkx/SpeculativeDecodingPapers)  
+- 🔗 [**Awesome-Speculative-Decoding**](https://github.com/hemingkx/SpeculativeDecodingPapers)  
 Explore advanced methods for accelerating LLM decoding with speculative techniques. 🚀
 
+- 🔗 [**COLING 2025 Tutorial: Speculative Decoding for Efficient LLM Inference**](https://speculative-decoding.github.io/)  
+[Full slide deck](https://tinyurl.com/speculative-decoding-tutorial),   [Recording](https://tinyurl.com/spec-tutorial-recording),  [B站链接](https://www.bilibili.com/video/BV1oufiYUENC)
 ---
 
 ### 📏 **Long-Context Modeling**  
