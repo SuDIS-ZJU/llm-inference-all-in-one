@@ -29,6 +29,13 @@ Dive deep into papers and blogs on extending LLM context length, efficient trans
 
 ---
 
+### 💭 **Reasoning**
+- 🔗 [**Awesome LLM Strawberry (OpenAI o1)**](https://github.com/hijkzzz/Awesome-LLM-Strawberry)  
+This is a collection of research papers & blogs for OpenAI Strawberry(o1) and Reasoning.
+- 🔗 [**Awesome-deep-reasoning**](https://github.com/modelscope/awesome-deep-reasoning)  
+Collect the awesome works evolved around reasoning models like O1/R1!
+---
+
 ### 🧩 **Mixture of Experts (MoE)**  
 🔗 [**Awesome MoE LLM Inference System and Algorithm**](https://github.com/MoE-Inf/awesome-moe-inference/)  
 A comprehensive list of resources for optimizing MoE-based LLM inference. Perfect for tackling sparse expert models! 🌟
